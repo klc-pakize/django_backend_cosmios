@@ -1,0 +1,5 @@
+from django.shortcuts import render
+from django.http import HttpResponse
+# Create your views here.
+def dshome(request):
+    return HttpResponse('DATAAA SİNCE')
