@@ -1,0 +1,16 @@
+-Flight
+-Reservation
+-Passenger
+
+# Flight
+    - Clinet
+        - Veiws (upcoming filght)
+    - Staff Members 
+        - Veiws (all Flight)
+        - CRUD
+    
+# Reservation
+    - Clinet
+        - CRUD Reservation(their own Reservation)
+    - Staff Members
+        - CRUD Reservation(all Reservation)
